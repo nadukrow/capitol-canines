@@ -1,0 +1,26 @@
+Building a Sinatra based application that focuses on dog adoption
+
+1) List out all dependencies for Sinatra to function.
+2) Plan the project structure (which controllers feed into which views - White board time!)
+3) Figure out what you want your views to Display
+4) Stub out the model and controllers and update views as necessary
+5) Program
+
+The purpose of this application is for users to be able to sign up and either choose to adopt other pets or put their pet up for adoption.
+
+Sign in page
+Create an accounts
+
+Log in
+Direct to specific account page (should display information and dogs in your possession)
+
+List a new pet functionality
+View and edit any new pet
+
+REQUIREMENTS
++ Build an MVC Sinatra Application.
++ Use ActiveRecord with Sinatra.
++ Use Multiple Models.
++ Use at least one has_many relationship
++ Must have user accounts. The user that created a given piece of content should be the only person who can modify that content
++ You should validate user input to ensure that bad data isn't created
